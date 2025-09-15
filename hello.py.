@@ -1,2 +1,6 @@
-name = input("What is your name? ")
-print("Hello, "+ name + "!")
+name = input("Enter your full name ")
+age = input("Enter your age ")
+stuNum = input("Enter student number ")
+print("Name = " + name)
+print("Age = " + age + " Years Old")
+print("Student Number = " + stuNum)
